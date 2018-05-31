@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2018/05/27" author="e.World Technology Ltd.">
+  <project id="{CB0737F4-C35F-4485-A00D-4D7E8040366B}" file="C:\Users\A5U5\Documents\PHPMaker\Projects\faris-collection.pmp" name="faris2Dcollection" product="PHPMaker" version="13.0" datetime="2018/05/27 22:14:49" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0">
+    <table id="inventory" name="inventory" caption="inventory" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,32" priv="1" />
+    <table id="pesanan" name="pesanan" caption="pesanan" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,32" priv="1" />
+    <table id="user" name="user" caption="user" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="customer" name="customer" caption="customer" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="masterdata" name="masterdata" caption="tipebarang" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+  </project>
+</configuration>
